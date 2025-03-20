@@ -116,6 +116,8 @@ graph TD
 - [RAM权限策略配置指南](https://help.aliyun.com/document_detail/116401.html)
 ```
 
+个人博客地址:https://urlzd.cn/t/huPvQfJ
+
 建议保存为 `README.md` 与脚本文件放在同一目录，保持完整的版本更新记录和变更日志。该文档包含：
 1. 结构化功能说明
 2. 可视化流程图
