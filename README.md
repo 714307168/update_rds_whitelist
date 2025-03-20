@@ -1,0 +1,2 @@
+# update_rds_whitelist
+自动更新阿里云rds的ip白名单
