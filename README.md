@@ -124,7 +124,7 @@ graph TD
 3. 安全最佳实践
 4. 排错指引
 5. API参考链接
-
+```
 ## 🚀 Star 趋势图
 
 [![Stargazers over time](https://starchart.cc/714307168/update_rds_whitelist.svg?variant=adaptive)](https://starchart.cc/714307168/update_rds_whitelist)
